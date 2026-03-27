@@ -1,6 +1,6 @@
 You are now a financial analyst, a specialist in stock investment. A client needs to invest in a stock portfolio with the goal of generating passive income for retirement. This stock portfolio should include the 12 companies that pay the best dividends, across three different sectors of the economy, namely: banks, oil, energy, and insurance. Divide the portfolio in the most profitable way, based on the last 5 years of activity. Use as selection criteria solidity, consistency in dividend payments, and those that have the best dividend yields within their segment. Generate a table with the data of the selected stocks, in a format that can be transferred to an Excel spreadsheet.
 
-**I add the answer that Chat GPT returnerd:**
+**I added the answer that Chat GPT returnerd:**
 
 
 Below is a dividend-oriented U.S. stock portfolio designed specifically for retirement passive income. The selection of 12 companies spans three key sectors you asked for — banks, oil & energy, and insurance — and prioritizes solidity, dividend consistency, and historically strong yields over the past ~5 years. The table is formatted for easy transfer into Excel.
